@@ -1,4 +1,4 @@
-# Scared
+# Scared Test
 
 Scared is a 3D shooter in the style of Wolfenstein 3D.
 
