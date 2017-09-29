@@ -162,7 +162,6 @@ public abstract class App extends Applet implements MouseListener, MouseMotionLi
             }
         });
     }
-
     @Override
     public synchronized void stop() {
         gameLoopRunning = false;
